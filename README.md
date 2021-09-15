@@ -6,5 +6,6 @@
 3. ...
 
 don' t forget to like and subscribe btw
-
-<img src="C:\laragon\www\skyfeyd" href="https://twitter.com/skyfeyd">
+<a href="https://twitter.com/skyfeyd">
+<img src="C:\laragon\www\skyfeyd"> 
+</a>
