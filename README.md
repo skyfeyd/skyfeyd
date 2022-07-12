@@ -2,7 +2,7 @@
 
 
 1. I like to consider myself as a space nerd  :rocket: 
-2. I like programming (no shit)  :sunglasses:
+2. I like programming (yes)  :sunglasses:
 3. I like music :musical_note:
 
 don' t forget to like and subscribe btw
